@@ -1,6 +1,8 @@
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pxfuel.com%2Fen%2Fdesktop-wallpaper-scwvq&psig=AOvVaw3ctzNrxU8FbQbeVR5-GNc0&ust=1718703293708000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNjk_O6q4oYDFQAAAAAdAAAAABAE)
 <h1 align="center">Hi 👋, I'm Komal Kumari</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-<img align="right"balt="coding" width="400" src="https://www.pinterest.com/pin/hello-dribbble-by-chlo-chassany--717268678168057748/">
+<img align="right"balt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-4706460855862906629&psig=AOvVaw1fLRlnmXrWxNXvV0tcBxRF&ust=1718702484747000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCIjkg_Sn4oYDFQAAAAAdAAAAABAZ">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=komalbhagat306&label=Profile%20views&color=0e75b6&style=flat" alt="komalbhagat306" /> </p>
 
 - 🔭 I’m currently working on **E-commerce**
