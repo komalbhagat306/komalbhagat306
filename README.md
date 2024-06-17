@@ -1,4 +1,4 @@
- <img align="center" alt="MasterHead" width="800" src="https://e1.pxfuel.com/desktop-wallpaper/584/399/desktop-wallpaper-create-full-stack-application-using-spring-boot-and-react-spring-boot.jpg">
+ <img align="center" alt="MasterHead" width="600" src="https://e1.pxfuel.com/desktop-wallpaper/584/399/desktop-wallpaper-create-full-stack-application-using-spring-boot-and-react-spring-boot.jpg">
 <h1 align="center">Hi 👋, I'm Komal Kumari</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 <img align="right"balt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz49pzG7CLExHaaewN5QE9HJHvxJGAlW2ZMw&s">
